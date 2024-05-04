@@ -1,2 +1,3 @@
-google-api-python-client==2.27.0
-streamlit==1.5.0
+streamlit
+google-api-python-client
+regex
